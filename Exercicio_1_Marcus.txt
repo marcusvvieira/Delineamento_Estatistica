@@ -1,0 +1,23 @@
+Meus caros,
+
+ainda não tenho o email pessoal de vocês, então estou usando o SIGA para comunição aos incritos, mas que só tem 11 nomes no momento. Por favor repassem aos colegas que tiverem contato. Assim que tiver a lista de emails repasso a todos.
+
+Um curto exercício para complementar o que vimos em aula:
+
+Exercício para entender como se calcular R2 e 'variação explicada':
+
+1. Usando o script de R, aplique os comandos que calculam SQreg, SQresid, SQtot
+
+(lembre que antes de tudo tem que definir o diretório/pasta de trabalho e deixar os arquivos de script e dados lá)
+
+2. Some SQreg + SQresid. Compare com o valor de SQtot.
+
+3. Calcule SQreg / SQtot. Que valor é este, o que representa?
+
+4. Repita o mesmo para model2 (variável preditiva LogIdade)
+
+(sugestão: copie e cole as linhas anteriores mas editando para SQreg2, SQresid2, SQtot2, predito2, model2, dresid2, etc).
+
+Abraços,
+
+Marquinhos
